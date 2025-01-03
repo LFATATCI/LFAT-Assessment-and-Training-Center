@@ -122,6 +122,11 @@ main .three{
     margin-top: 6%;
     margin-left: 19%; 
 }
+.two{
+    height: 100vh;
+    margin-top: 4.7%;
+    margin-left: 3.8%; 
+}
     
 .column{
     float: left;
