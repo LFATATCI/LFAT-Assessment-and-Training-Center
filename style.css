@@ -44,18 +44,18 @@ body{
 .navbar ul{
     list-style: none;
     display: flex;
-    margin-left: 50vh;
+    margin-left: 45vh;
     
 }
 .navbar ul li{
-    padding: 10px 30px;
+    padding: 9px 28px;
     position: relative;
     
 }
 .navbar ul li a{
     color: white;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 22px;
     transition: all 0.3s;
 }
 .navbar ul li a:hover{
@@ -209,8 +209,8 @@ h1{
     
 }
 p{
-    margin-left: 24.5%;
-    margin-right: 12%;
+    margin-left: 24%;
+    margin-right: 10%;
     font-size: 25px;
     line-height: 2.5vh;
     color: rgb(5, 82, 50);
@@ -218,7 +218,7 @@ p{
     
 }
 h2{
-    text-align: center;
+    text-align:center;
     margin-top: 5%;
     font-size: 50px;
     color: rgb(5, 82, 50);
